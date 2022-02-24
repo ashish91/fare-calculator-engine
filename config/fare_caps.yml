@@ -1,0 +1,25 @@
+cappings:
+  -
+    zones:
+      from: 1
+      to: 1
+    daily: 100
+    weekly: 500
+  -
+    zones:
+      from: 1
+      to: 2
+    daily: 120
+    weekly: 600
+  -
+    zones:
+      from: 2
+      to: 1
+    daily: 120
+    weekly: 600
+  -
+    zones:
+      from: 2
+      to: 2
+    daily: 80
+    weekly: 400

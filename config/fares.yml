@@ -1,0 +1,29 @@
+fares:
+  -
+    zones:
+      from: 1
+      to: 1
+    cost_by_timing_type:
+      peak: 30
+      off_peak: 25
+  -
+    zones:
+      from: 1
+      to: 2
+    cost_by_timing_type:
+      peak: 35
+      off_peak: 30
+  -
+    zones:
+      from: 2
+      to: 1
+    cost_by_timing_type:
+      peak: 35
+      off_peak: 30
+  -
+    zones:
+      from: 2
+      to: 2
+    cost_by_timing_type:
+      peak: 25
+      off_peak: 20

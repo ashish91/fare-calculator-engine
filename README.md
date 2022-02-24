@@ -1,1 +1,1 @@
-# fare-calculator-engine
+# fair-calculator-engine
