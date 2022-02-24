@@ -1,6 +1,4 @@
-require './services/fare_matching_service'
-require './services/fare_capping_service'
-require 'pry'
+require File.join(Dir.pwd, 'bin/require_tree')
 
 matching_service = FareMatchingService.new
 capping_service = FareCappingService.new
